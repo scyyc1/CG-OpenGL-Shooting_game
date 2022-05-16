@@ -1,0 +1,28 @@
+﻿E:\Study\CS\IDEs\Visual Studio Code Community 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Lab7b.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\util.h(53,35): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\camera.h(65,1): warning C4305: “=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\camera.h(67,1): warning C4305: “=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Y4\CG-nott\cw\3\code\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\Model.h(450,29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\Model.h(606,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(34,34): warning C4305: “初始化”: 从“double”到“float”截断
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(197,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(204,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(205,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(209,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(210,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(212,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\main.cpp(213,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\cw\3\code\CW3\CW3\bitmap.h(52): warning C4715: “loadbitmap”: 不是所有的控件路径都返回值
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  CW3.vcxproj -> E:\Y4\CG-nott\cw\3\code\CW3\x64\Debug\CW3.exe
